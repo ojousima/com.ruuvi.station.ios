@@ -1,4 +1,5 @@
 language: objective-c
+osx_image: xcode11
 xcode_project: station.xcodeproj # path to your xcodeproj folder
 xcode_destination: platform=iOS Simulator,OS=11.3,name=iPhone X
 podfile: Podfile
